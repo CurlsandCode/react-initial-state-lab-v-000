@@ -1,4 +1,5 @@
 // ImageSlider Component Code Goes Here
+
 import React from 'react';
 
 class ImageSlider extends React.Component {
@@ -14,7 +15,6 @@ class ImageSlider extends React.Component {
     return (
 
        <div>
-
        <h1>I am on slide {this.props.currentSlideIndex}</h1>
        </div>
 
