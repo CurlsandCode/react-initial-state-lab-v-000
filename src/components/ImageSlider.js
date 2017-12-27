@@ -14,7 +14,11 @@ class ImageSlider extends React.Component {
     return (
 
        <div>
+<<<<<<< HEAD
        <h1>I am on slide {this.props.currentSlideIndex}</h1>
+=======
+       <h1>I am on slide ${this.props.currentSlideIndex}</h1>
+>>>>>>> ce6fae0656f0feec2557b3bf2a1ad87066141e97
        </div>
 
     )
